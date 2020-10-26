@@ -2,8 +2,7 @@
 
 **Download**
 ```
-git@github.com:walae-br/plant_classification.git
-```
+git@github.com:walae-br/plant_classification.git```
 **Usage**
 ```
 python classify.py --images dataset/images --masks dataset/masks
