@@ -18,4 +18,4 @@ opencv==4.4
 scikit learn==0.23.2
 ```
 
-![alt text](https://github.com/walae-br/plant_classification/Hblob/main/1.png)
+![alt text](https://github.com/walae-br/plant_classification/blob/main/4.png)
